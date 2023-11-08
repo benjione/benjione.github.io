@@ -96,7 +96,14 @@ div.bibinfo pre { clear:both; }
   height: 22px;
 }
 .scholar {
-  background-image: url(../img/scholar.png);
+  background-image: url(../img/scholar.svg);
+  background-size: 22px;
+  width: 22px;
+  height: 22px;
+}
+.github {
+  background-image: url(../img/github-mark.svg);
+  background-size: 22px;
   width: 22px;
   height: 22px;
 }
